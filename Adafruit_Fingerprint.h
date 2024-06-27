@@ -65,6 +65,7 @@
 #define FINGERPRINT_STORE 0x06          //!< Store template
 #define FINGERPRINT_LOAD 0x07           //!< Read/load template
 #define FINGERPRINT_UPLOAD 0x08         //!< Upload template
+#define FINGERPRINT_DOWNLOAD 0x09       // download temp 
 #define FINGERPRINT_DELETE 0x0C         //!< Delete templates
 #define FINGERPRINT_EMPTY 0x0D          //!< Empty library
 #define FINGERPRINT_READSYSPARAM 0x0F   //!< Read system parameters
